@@ -29,3 +29,7 @@ Alternative: In case you have ***GIT*** installed use:
 * Your webbrowser should start up automatically. In case it does not follow the link provided by the terminal
 ![follow](./Pictures/follow_link.PNG)
 * Navigate the unzipped folder and select ***Microtraining.ipynb***
+
+## Jupyter Shortcuts
+* Execute current cell:
+`CTRL + Enter`
