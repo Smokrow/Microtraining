@@ -5,8 +5,10 @@
 
 * Install [Anconda](https://www.anaconda.com/download/)
 * Download this Folder und unzip it. 
+
 [Download Link](https://github.com/Smokrow/Microtraining/archive/master.zip)
-Alternative: In case you have ***GIT*** installed use:
+
+Alternative: In case you have ***GIT*** installed, use:
  `git clone https://github.com/Smokrow/Microtraining.git`
 
 ## Easy Startup for Windows
