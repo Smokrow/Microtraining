@@ -23,14 +23,20 @@ Alternative: In case you have ***GIT*** installed, use:
 * Go to the ***Enviroment*** tab and click ***Import***
 ![Import](./Pictures/Install_conda.PNG)
 * Name your environment ***jupyter*** and select the ***environment.yml*** file of this folder
+
 ![Select](./Pictures/Select_file.PNG)
+
 * Wait until all packages have been downloaded
 * Open the terminal of your environment
+
 ![Open](./Pictures/Open_Terminal.PNG)
+
 * Navigate the terminal to your
 * Start you Jupyter notebook by typing `jupyter notebook` and press enter
 * Your webbrowser should start up automatically. In case it does not follow the link provided by the terminal
+
 ![follow](./Pictures/follow_link.PNG)
+
 * Navigate the unzipped folder and select ***Microtraining.ipynb***
 
 ## Jupyter Shortcuts
