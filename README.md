@@ -15,8 +15,10 @@ Alternative: In case you have ***GIT*** installed, use:
 * run ***install.bat*** from the downloaded folder.This will create a new python environment ***jupyter*** and download all requiered packages.
 * run ***start_notebook.bat*** from the downloaded folder. A jupyter notebook instance will start up and you will see the downloaded folder in your webbrowser
 * Select the ***Microtraining.ipynb*** file in your webbrowser
+* You are ready to go
 
 ## Manual Startup
+Use this method in case Easy Startup is not working
 
 * Start the Anaconda Navigator
 
@@ -38,6 +40,8 @@ Alternative: In case you have ***GIT*** installed, use:
 ![follow](./Pictures/follow_link.PNG)
 
 * Navigate the unzipped folder and select ***Microtraining.ipynb***
+
+* You are ready to go
 
 ## Jupyter Shortcuts
 * Execute current cell:
