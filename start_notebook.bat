@@ -1,2 +1,2 @@
 call activate jupyter
-jupyter notebook
+jupyter notebook --notebook-dir=.
