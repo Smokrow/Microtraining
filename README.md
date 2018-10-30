@@ -3,8 +3,8 @@
 
 ## Installation
 
-* Install [Anconda](https://www.anaconda.com/download/)
-* Download this Folder und unzip it. 
+* Install [Anaconda](https://www.anaconda.com/download/)
+* Download this Folder und unzip it.
 
 [Download Link](https://github.com/Smokrow/Microtraining/archive/master.zip)
 
@@ -12,8 +12,8 @@ Alternative: In case you have ***GIT*** installed, use:
  `git clone https://github.com/Smokrow/Microtraining.git`
 
 ## Easy Startup for Windows
-* run ***install.bat*** from the downloaded folder.This will create a new python environment ***jupyter*** and download all requiered packages.
-* run ***start_notebook.bat*** from the downloaded folder. A jupyter notebook instance will start up and you will see the downloaded folder in your webbrowser
+* Drag and Drop ***install.bat*** from the downloaded folder into the program Anaconda Prompt.This will create a new python environment ***jupyter*** and download all requiered packages.
+* Drag and Drop ***start_notebook.bat*** from the downloaded folder into the prompt as well. A jupyter notebook instance will start up and you will see the downloaded folder in your webbrowser
 * Select the ***Microtraining.ipynb*** file in your webbrowser
 * You are ready to go
 
