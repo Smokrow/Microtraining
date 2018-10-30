@@ -3,3 +3,4 @@ run_presentation.bat
 __pycache__
 reveal.js
 Microtraining.slides.html
+graph/*
