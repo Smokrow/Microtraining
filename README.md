@@ -33,13 +33,13 @@ Use this method in case Easy Startup is not working
 
 ![Open](./Pictures/Open_Terminal.PNG)
 
-* Navigate the terminal to your
+* Navigate the terminal to the downloaded folder
 * Start you Jupyter notebook by typing `jupyter notebook` and press enter
 * Your webbrowser should start up automatically. In case it does not follow the link provided by the terminal
 
 ![follow](./Pictures/follow_link.PNG)
 
-* Navigate the unzipped folder and select ***Microtraining.ipynb***
+* Navigate to the unzipped folder and select ***Microtraining.ipynb***
 
 * You are ready to go
 
